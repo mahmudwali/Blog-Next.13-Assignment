@@ -1,0 +1,3 @@
+Git repo: https://github.com/mahmudwali/Blog-Next.13-Assignment.git
+
+Live: https://blog-next-13-assignment.vercel.app/
